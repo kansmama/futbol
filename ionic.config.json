@@ -1,0 +1,8 @@
+{
+  "name": "futbol",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3f100345"
+}
